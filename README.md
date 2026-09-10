@@ -4,8 +4,8 @@ A fully responsive, modern landing page for **NOVA**, a fictional AI-powered
 productivity platform ("Build Better. Work Smarter."). Built as a Front-End
 Development Intern assignment.
 
-**Live demo:** _add your deployed URL here after step 4 below_
-**Repository:** _add your GitHub URL here_
+**Live demo:** https://nova-three-jet-20.vercel.app
+**Repository:** https://github.com/ashutoshgaur414-cyber/nova
 
 ## Screenshots
 
